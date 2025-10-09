@@ -1,21 +1,7 @@
-- 👋 Hi, I’m Ali Youssef, a Media Engineering and Technology student at the German University in Cairo (GUC), with a passion for data science, analytics, and turning raw data into meaningful insights. I’m excited to explore how technology and statistics can solve real
-  world problems and create impactful solutions.
+- 👋 Hey, I'm Ali Yousef! I study Media Engineering and Technology at GUC and I'm really into MLE; We're living closer to a sci-fi movie than we realize ;).
 
-- 🎓 Academics:
-  Currently pursuing my B.Sc. in Media Engineering and Technology, specializing in Computer Science and Engineering.
-  A proud graduate of Saint Fatima Language Schools, where I graduated at the top of my class with Highest Honors.
+- 🎓 I'm working toward my B.Sc. in Media Engineering and Technology (CSE). Graduated top of my grade from Saint Fatima Language School.
 
-- 💻 What I Do:
-  I enjoy diving into data-driven projects and learning tools like SQL, Python, R, and Excel.
+- 🌟 When I'm not coding, you'll find me playing the oud, geeking out over cars, working on stained glass projects, or just listening to music.
 
-- 🌟 Beyond Studies:
-  Playing the Oud has shown me how precision and harmony connect music and technology — each note like a line of code building something meaningful.
-  
-- 🚀 Current Focus:
-  I’m deepening my knowledge in statistical modeling, big data, and predictive analytics, aiming to build a strong foundation for a career in data science. Whether through academic projects, internships, or personal experiments, I’m eager to grow and make an impact in my
-  field.
-
-<!---
-alyyousef/alyyousef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Currently just absorbing as much as possible while I work out what I want to commit to long-term.
