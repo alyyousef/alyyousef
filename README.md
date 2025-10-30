@@ -1,4 +1,4 @@
-- Heyy! I'm Ali Yousef, I study Media Engineering and Technology at GUC and I'm really into MLE; we're living closer to a sci-fi movie than we realize xD
+- Whassgoodd! I'm Ali Yousef, I study Media Engineering and Technology at GUC and I'm really into MLE; we're living closer to a sci-fi movie than we realize xD
 
 - I'm working toward my B.Sc. in Media Engineering and Technology (CSEN). Graduated top of my division from Saint Fatima Language School.
 
