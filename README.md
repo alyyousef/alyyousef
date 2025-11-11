@@ -36,22 +36,41 @@ Pursuing a B.Sc. in Media Engineering and Technology student specializing in CSE
 - Building full-stack applications with the MERN stack  
 - Experimenting  
 
-## Tech Stack
+## My Tech Stack
 
-**Languages & Frameworks:**  
-- Python, Java, JavaScript  
-- Node.js, React, Express  
-- HTML5, CSS3, Bootstrap  
-- PyTorch  
+### Programming Languages
+- Python
+- Java
+- JavaScript
 
-**Databases:**  
-- MongoDB, MySQL, PostgreSQL  
+### Machine Learning
+- PyTorch
 
-**Tools & Environments:**  
-- Git, VS Code, Visual Studio, IntelliJ, Excel, LaTeX  
+### Databases
+- MongoDB
+- MySQL
+- PostgreSQL
 
-**Design:**  
-- Canva  
+### Development Tools
+- Git
+- VS Code
+- Visual Studio
+- IntelliJ
+
+### Frontend Development
+- React
+- HTML5
+- CSS3
+- Bootstrap
+
+### Backend Development
+- Node.js
+- Express
+
+### Productivity & Design
+- Excel
+- LaTeX
+- Canva
 
 ## Beyond Code
 When I'm not coding, you'll find me:  
