@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm Ali Yousef
+# Ali Yousef
 
 **Media Engineering & Technology Student @ GUC**  
 **ML Enthusiast**
