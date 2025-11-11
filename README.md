@@ -26,10 +26,6 @@ Pursuing a B.Sc. in Media Engineering and Technology student specializing in CSE
 
 </div>
 
-## Education
-- **German University in Cairo (GUC):-** MET - CSEN  
-- **Saint Fatima Language School:-** Graduated top of my division
-
 ## Current Focus
 - Exploring and learning everything  
 - Deep diving into Machine Learning Engineering  
