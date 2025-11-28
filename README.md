@@ -28,7 +28,6 @@ Pursuing a B.Sc. in Media Engineering and Technology student specializing in CSE
 
 ## Current Focus
 - Exploring and learning everything  
-- Deep diving into Machine Learning Engineering  
 - Building full-stack applications with the MERN stack  
 - Experimenting  
 
